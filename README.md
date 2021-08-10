@@ -53,9 +53,12 @@ I can now say: (n)vim rocks!!!
 Papa had 100 kittens. Their names were saved somewhere on the web - please find some resource that makes
 it relatively easy for you to fetch 100 kittens first names (let it be human first names) into a js-array (of strings).
 
-```Created FetchNames.js to hold this fetch request and for the grep awk cut sed.  Completed this by using axios to call on an API of names from names.drycodes.com.  Then pulled both 50 boy names and 50 girl names into one array of strings.```
+`Created FetchNames.txt to hold fetch requests from http://names.drycodes.com/. Then pulled both 50 boy names and 50 girl names into one array of strings within the catNames.json in the public folder.`
 
 Now the petty task is for you to "grep awk cut sed regex-replace format" the list into a js-array of strings :-)
+
+`😅`
+
 Please save that into some .json file in your server/public folder.
 
 ### Sorting Algorithm
