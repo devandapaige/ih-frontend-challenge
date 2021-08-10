@@ -19,7 +19,7 @@ The task consists of
 
 ✅ a getting to know each other question-tuple
 
-- a how do you make your way around a petty repetitive task you just have to get done thingy
+✅ a how do you make your way around a petty repetitive task you just have to get done thingy
 - a sorting algorithm (really, this is so easy - it is more of a check on your diligence than on your coding abilities)
 - and a small React task
 

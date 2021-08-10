@@ -1,10 +1,9 @@
-import './App.css';
-import FetchNames from "./FetchNames"
+import "./App.css";
 
 function App() {
   return (
     <div>
-      <FetchNames />
+      <h1>Papa's Cats</h1>
     </div>
   );
 }
